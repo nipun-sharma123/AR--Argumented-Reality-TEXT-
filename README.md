@@ -1,2 +1,2 @@
 # AR--Argumented-Reality-TEXT-
-An AR application with a text.
+It is a basic AR app with hello world printed in blue color.
